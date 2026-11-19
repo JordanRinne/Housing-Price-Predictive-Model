@@ -1,0 +1,2 @@
+This purpose of this personal project was to learn the basics of ML architecture using the most fundamental Pytorch functions. All of the code is based on tensors and matrix multiplication, with everything else built off that foundation from scratch.
+I started by using a simple linear regression model in my 'Pytorch_Learning.ipynb'. The R^2 = 0.62. After I copied the file into 'House_Price_model.ipynb', where I made small iterative model improvements, slowly raising the accuracy.
